@@ -1,0 +1,8 @@
+.profisao__descricao {
+    font-family: var(--font--principal-);
+    font-size: 16px ;
+    font-weight: 500;
+    line-height: 10px ;
+    color: var(--cor--cinza);
+    margin-left: 25px;
+}

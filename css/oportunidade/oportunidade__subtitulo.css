@@ -1,0 +1,9 @@
+.oportunidade__subtitulo {
+    font-family: var(--font--principal-);
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--cor--vermelho);
+    line-height: 20px;
+    top: 4px;
+}

@@ -1,0 +1,7 @@
+.oportunidade__titulo {
+    font-family: var(--font--principal-);
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 44px;
+    text-align: center;
+}

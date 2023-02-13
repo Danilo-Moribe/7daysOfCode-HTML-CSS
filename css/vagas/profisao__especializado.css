@@ -1,0 +1,10 @@
+.profisao__especializado {
+    font-family: var(--font--principal-);
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 20px;
+    color: var(var(--cor--preto));
+    margin-left: 25px;
+    margin-top: 30px;
+
+}

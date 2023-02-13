@@ -1,0 +1,10 @@
+.quemsomos {
+    width: (100vw - 10px);
+    height: 288px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+
+
+}

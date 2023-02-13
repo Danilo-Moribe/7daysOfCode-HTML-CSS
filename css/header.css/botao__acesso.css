@@ -1,0 +1,21 @@
+.botao__acesso {
+    font-size: 12px;
+    text-decoration: none;
+    background: none;
+    border: none;
+    color: var(--cor--cinza);
+}
+.botao__acesso--cadastro {
+    background-color: var(--cor--vermelho);
+    padding: 8px;
+    border-radius: 5px;
+    color: var(--cor--branco);
+    text-decoration: none;
+    
+}
+
+.botao__acesso--ancora {
+    text-decoration: none;
+    color: var(--cor--cinza);
+    font-family: var(--font--principal-);
+}

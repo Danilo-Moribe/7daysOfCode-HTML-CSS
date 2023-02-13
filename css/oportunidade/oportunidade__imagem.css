@@ -1,0 +1,8 @@
+.oportunidade__imagem {
+    width: (1216px-4px);
+    height: 400px;
+    position: relative;
+    top: 50px;
+    background: url(../../img/imagemPrincipal.svg) no-repeat center ;
+       
+}

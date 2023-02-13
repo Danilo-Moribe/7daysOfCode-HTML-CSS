@@ -1,0 +1,9 @@
+.depoimento__colaboradora {
+    font-family: var(--font--principal-);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 40px;
+    color: var(--cor--preto);
+    text-align: center;
+    
+}

@@ -1,0 +1,8 @@
+.sobrenos__descricao {
+           font-family: var(--font--principal-);
+           font-size: 20px;
+           font-weight: 400;
+           line-height: 30px;
+           text-align: center;
+           color: var(--cor--cinza);
+}

@@ -1,0 +1,7 @@
+.somos__titulo {
+    font-family: var(--font--principal-);
+    font-size: 60px;
+    font-weight: 600;
+    line-height: 72px;
+    color: var(--cor--vermelho);
+}

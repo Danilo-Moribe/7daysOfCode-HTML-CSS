@@ -1,0 +1,9 @@
+.sobrenos__titulo {
+    text-align: center;
+    font-family: var(--font--principal-);
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 100px;
+    color:var(--cor--preto);
+
+}

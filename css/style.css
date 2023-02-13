@@ -1,0 +1,56 @@
+@import url(../css/header.css/cabecalho.css);
+@import url(../css/header.css/logoPrincipal.css);
+@import url(../css/header.css/menu__cabecalho.css);
+@import url(../css/header.css/lista__menu.css);
+@import url(../css/header.css/item__lista.css);
+@import url(../css/header.css/acesso.css);
+@import url(../css/header.css/botao__acesso.css);
+@import url(../css/queSomos/quemsomos.css);
+@import url(../css/queSomos/somos.css);
+@import url(../css/queSomos/somos__titulo.css);
+@import url(../css/queSomos/somos__subtitulo.css);
+@import url(../css/queSomos/somos__descricao.css);
+@import url(../css/sobreNós/sobrenos.css);
+@import url(../css/sobreNós/sobrenos__titulo.css);
+@import url(../css/sobreNós/sobrenos__subtitulo.css);
+@import url(../css/sobreNós/sobrenos__descricao.css);
+@import url(../css/oportunidade/oportunidade.css);
+@import url(../css/oportunidade/oportunidade__subtitulo.css);
+@import url(../css/oportunidade/oportunidade__titulo.css);
+@import url(../css/oportunidade/oportunidade__descricao.css);
+@import url(../css/oportunidade/oportunidade__imagem.css);
+@import url(../css/vagas/vagas.css);
+@import url(../css/vagas/vaga.css);
+@import url(../css/vagas/profisao.css);
+@import url(../css/vagas/profisao__especializado.css);
+@import url(../css/vagas/profisao__descricao.css);
+@import url(../css/depoimentos/depoimentos.css);
+@import url(../css/depoimentos/depoimento.css);
+@import url(../css/depoimentos/depoimento__descricao.css);
+@import url(../css/depoimentos/depoimento__auxilio.css);
+@import url(../css/depoimentos/depoimento__avatar.css);
+@import url(../css/depoimentos/depoimento__colaboradora.css);
+@import url(../css/depoimentos/depoimento__cargo.css);
+@import url(../css/depoimentos/depoimento__sobrenos.css);
+@import url(../css/rodapé/rodape.css);
+@import url(../css/rodapé/rodape__titulo.css);
+@import url(../css/rodapé/rodape__descricao.css);
+@import url(../css/rodapé/enviar.css);
+@import url(../css/rodapé/botaoEnviar.css);
+@import url(../css/rodapé/copyright.css);
+    
+
+
+
+
+:root {
+    --font--principal-: 'Inter', sans-serif;
+    --cor--branco: #ffffff;
+    --cor--cinza: #667085;
+    --cor--vermelho: #8E2424;
+    --cor--preto: #101828;
+    --cor--secundaria: #C31919;
+    --cor--rodape:#F9FAFB;
+    
+}
+

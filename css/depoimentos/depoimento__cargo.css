@@ -1,0 +1,8 @@
+.depoimento__cargo {
+    font-family: var(--font--principal-);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    color: var(--cor--cinza);
+    text-align: center;
+}

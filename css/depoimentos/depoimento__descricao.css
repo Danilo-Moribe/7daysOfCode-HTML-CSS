@@ -1,0 +1,9 @@
+.depoimento__descricao {
+    font-family: var(--font--principal-);
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px;
+    color: var(--cor--vermelho);
+    text-align: center;
+    margin-top: 40px;
+}

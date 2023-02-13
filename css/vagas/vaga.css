@@ -1,0 +1,10 @@
+.vaga {
+    width: 1280px;
+    height: 358px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px 32px;
+    gap: 64px;
+    margin-left: 250px;
+}

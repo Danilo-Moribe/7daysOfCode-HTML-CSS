@@ -1,0 +1,9 @@
+.depoimento__avatar {
+    width: 56px;
+    height: 56px;
+    background: url(../../img/Avatar.svg) no-repeat center;
+    text-align: center;
+    position: relative;
+    left: 477px;
+    margin-top: 40px;
+}

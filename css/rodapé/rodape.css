@@ -1,0 +1,7 @@
+.rodape {
+    width: 100vw;
+    height: 430px;
+    position: relative;
+    top: 330px;
+    background-color: var(--cor--rodape);
+}

@@ -1,0 +1,10 @@
+.depoimento__auxilio {
+    font-family: var(--font--principal-);
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 44px;
+    color: var(--cor--preto);
+    text-align: center;
+    letter-spacing: -0.02em;
+
+}

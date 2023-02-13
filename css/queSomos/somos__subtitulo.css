@@ -1,0 +1,7 @@
+.somos__subtitulo {
+    font-family: var(--font--principal-);
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 28px;
+    color: var(--cor--preto);
+}

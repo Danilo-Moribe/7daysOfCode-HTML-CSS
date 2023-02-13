@@ -1,0 +1,14 @@
+.depoimentos {
+    width: 100vw;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 300px;
+    padding: 0px 0px 96px;
+    box-sizing: border-box;
+    
+    
+}
